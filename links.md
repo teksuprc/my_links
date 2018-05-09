@@ -18,3 +18,5 @@ https://jenkins.io/doc/book/pipeline/
 https://www.youtube.com/watch?v=ggzbqcf8PAU
 
 https://codepen.io/westerjn/pen/BrOLJB
+
+https://github.com/Microsoft/vscode-recipes
